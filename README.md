@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm AKINWANDE Nurat. I am a data analyst that is passionate about turning data into meaningful insights.
 
-<!--
-**Nurat-coder/Nurat-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I specialize in data wrangling, visualization, and storytelling using tools like Python, SQL, Excel, Tableau, and Power BI.
 
-Here are some ideas to get you started:
+📊 I enjoy working with real-world datasets to uncover trends, build dashboards, and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently learning more about data engineering concepts to level up my analysis game.
+
+🛠️ Projects:
+
+Exploratory data analysis
+
+Dashboard creation
+
+Web scraping
+
+Predictive modeling (beginner level)
+
+🌍 I'm particularly interested in using data to solve local problems.
+
+📫 Let’s connect:LinkedIn:www.linkedin.com/in/nurat-akinwande-826178222 and email: akinwandenurat0@gmail.com
